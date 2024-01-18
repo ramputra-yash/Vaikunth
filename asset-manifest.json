@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaikunth/static/css/main.d2860742.css",
+    "main.js": "/Vaikunth/static/js/main.baaad7fa.js",
+    "static/js/787.7eb1fcd7.chunk.js": "/Vaikunth/static/js/787.7eb1fcd7.chunk.js",
+    "index.html": "/Vaikunth/index.html",
+    "main.d2860742.css.map": "/Vaikunth/static/css/main.d2860742.css.map",
+    "main.baaad7fa.js.map": "/Vaikunth/static/js/main.baaad7fa.js.map",
+    "787.7eb1fcd7.chunk.js.map": "/Vaikunth/static/js/787.7eb1fcd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2860742.css",
+    "static/js/main.baaad7fa.js"
+  ]
+}
